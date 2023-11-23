@@ -1,6 +1,6 @@
 # SpinMakr
 A simple ESP32 based, 3D printed table tennis robot
-# List of materials
+## List of materials
 <details>
 Some of they were bought in bulk, because it was easier for me to buy it from amazon/aliexpress rather than local market.
   
