@@ -1,5 +1,5 @@
 # SpinMakr
-A simple table tennis robot
+A simple ESP32 based table tennis robot
 # List of materials
 <details>
 Some of they were bought in bulk, because it was easier for me to buy it from amazon/aliexpress rather than local market.
