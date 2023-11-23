@@ -26,7 +26,7 @@ Some of they were bought in bulk, because it was easier for me to buy it from am
 | 1kOhm              | 1/4W                                 | 3               | -                                                    |
 | Transistor         | TIP-147 package TO-247               | 1               | -                                                    |
 | Schottky Diode     | MBR2035 or equivalent package TO-220 | 1               | -                                                    |
-| Capacitor          | 35V electolytic                      | 1               | -                                                    |
+| Capacitor          | 35V electrolytic                     | 1               | -                                                    |
 | Energy Dumper      | order it on JLCPCB                   | 1               | Gerber download link: toDo                           |
 | ESP32 robot shield | order it on JLCPCB                   | 1               | Gerber download link: toDo                           |
 | Male pin headers   | 40 pin                               | 1               | -                                                    |
