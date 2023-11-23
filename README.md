@@ -1,7 +1,9 @@
 # SpinMakr
 A simple table tennis robot
 # List of materials
-Some of they were bought in bulk
+<details>
+Some of they were bought in bulk, because it was easier for me to buy it from amazon/aliexpress rather than local market.
+  
 | Part               | Model                                | Quantity needed | Reference Link                                       |
 |--------------------|--------------------------------------|-----------------|------------------------------------------------------|
 | BLDC Motors        | A2208 KV1400                         | 3               | https://www.aliexpress.us/item/2255800409217841.html |
@@ -29,3 +31,5 @@ Some of they were bought in bulk
 | ESP32 robot shield | order it on JLCPCB                   | 1               | Gerber download link: toDo                           |
 | Male pin headers   | 40 pin                               | 1               | -                                                    |
 | M3 bolts           | various lengths                      | 12              | https://www.amazon.com/gp/product/B0BMQFHDBH         |
+</details>
+
