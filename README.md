@@ -1,9 +1,8 @@
 # SpinMakr
 A simple ESP32 based, 3D printed table tennis robot
 ## List of materials
-<details>
 Some of they were bought in bulk, because it was easier for me to buy it from amazon/aliexpress rather than local market.
-  
+<details> 
 | Part               | Model                                | Quantity needed | Reference Link                                       |
 |--------------------|--------------------------------------|-----------------|------------------------------------------------------|
 | BLDC Motors        | A2208 KV1400                         | 3               | https://www.aliexpress.us/item/2255800409217841.html |
